@@ -1,6 +1,19 @@
-# chatbot-CAVEaT-data
-chatbot-CAVEaT-data
+# chatbot CAVEaT data
 
-## TODO
+## Data sources
 
-How to add something like https://cloudsecurityalliance.info/2024/09/09/hacker-news-hacking-misconfigured-aws-s3-buckets-a-complete-guide/
+### CCM
+
+We need to update this
+
+### AWS
+
+https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/tree/main/vendors/AWS
+
+### Azure
+
+https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/tree/main/vendors/Azure
+
+### Google
+
+https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/tree/main/vendors/GCP
