@@ -17,3 +17,7 @@ https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulation
 ### Google
 
 https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/tree/main/vendors/GCP
+
+### MITRE
+
+ATLAS: https://github.com/CloudSecurityAlliance-DataSets/dataset-public-laws-regulations-standards/blob/main/MITRE/ATLAS/ATLAS.json
