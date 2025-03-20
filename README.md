@@ -1,3 +1,5 @@
+THIS HAS BEEN MOVED TO https://github.com/CloudSecurityAlliance-WG/WG-CAVEaT/tree/main/Chatbot
+
 # chatbot CAVEaT data
 
 ## Data sources
